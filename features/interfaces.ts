@@ -1,3 +1,4 @@
+// this interface is very specific to cars
 interface Vehicle {
   name: string;
   year: Date;
